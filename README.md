@@ -1,3 +1,4 @@
+The third commit
 The second commit
 The first commit
 # GitMasteryChallenge
